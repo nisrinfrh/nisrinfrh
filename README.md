@@ -3,7 +3,7 @@
 - ### I have just finish Google Data Analytics course/
 - ### I’m looking to collaborate on Data Analysis Projects
 - ### How to reach [me
-** [ Linked In]**(https://www.linkedin.com/in/nisrin-farah-50b906259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+ [ Linked In](https://www.linkedin.com/in/nisrin-farah-50b906259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
  [Email](nsrenfrh@gmail.com)
 
 <!---
