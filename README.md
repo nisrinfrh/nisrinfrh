@@ -1,4 +1,4 @@
-- #  I’m **Nisrin Farah Mohammed**
+- #   **Nisrin Farah Mohammed**
 - ### I’m interested in Data Analysis
 - ### I have just finish Google Data Analytics course/
 - ### I’m looking to collaborate on Data Analysis Projects
