@@ -1,6 +1,6 @@
-- # Hi, I’m **Nisrin Farah Mohammed**
+- #  I’m **Nisrin Farah Mohammed**
 - ### I’m interested in Data Analysis
-- ### I’m currently learning SQL and Powerbi
+- ### I have just finish Google Data Analytics course/
 - ### I’m looking to collaborate on Data Analysis Projects
 - ### How to reach me
   
